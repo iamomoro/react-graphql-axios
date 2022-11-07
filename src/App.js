@@ -85,7 +85,7 @@ function App() {
             style={{
               overflow: 'hidden',
               position: 'relative',
-              flexShrink: 0,
+              flexShrink: '0',
               height: '200px',
               borderRadius: '0.75rem',
             }}
